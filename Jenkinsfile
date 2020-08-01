@@ -3,7 +3,6 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                sh 'cat /etc/os-version'
                 sh 'mvn --version'
             }
         }
