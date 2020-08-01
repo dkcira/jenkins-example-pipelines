@@ -6,3 +6,5 @@ List the branches:
 ```bash
 git branch -l
 ```
+
+Original examples from here: https://www.jenkins.io/doc/pipeline/tour/hello-world/#examples
